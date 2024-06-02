@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/hadoerr/Space%20Game/_apis/build/status%2FAzure%20Pipelines?branchName=main)](https://dev.azure.com/hadoerr/Space%20Game/_build/latest?definitionId=11&branchName=main)
 
 # Contributing
 
